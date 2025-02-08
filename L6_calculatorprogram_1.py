@@ -13,4 +13,4 @@ elif operator == '/':
 elif operator == '%':
     print(f"the Result is : {num_1%num_2}")
 else:
-    print("ERROR INPUT NUMBERS !! ")
+    print("ERROR INPUT  !! ")
